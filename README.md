@@ -25,7 +25,3 @@ The diode is inexpensive, widely available, and commonly used in power protectio
 The circuit was simulated in LTspice using an operating point (.op) analysis.  
 Correct polarity allows current flow, while reverse polarity blocks current, confirming protection functionality.
 
-## Files Included
-- `schematic.asc` – LTspice schematic
-- `circuit.png` – Circuit diagram
-- `simulation.png` – LTspice simulation result
